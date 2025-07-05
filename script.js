@@ -2,10 +2,10 @@
 const portfolioData = [
     {
         id: 1,
-        title: "Cyber Warrior NFT",
-        description: "Thumbnail futurista com elementos cyberpunk",
+        title: "",
+        description: "",
         image: "Thumb02.jpg",
-        category: "gaming"
+        category: ""
     },
     {
         id: 2,
