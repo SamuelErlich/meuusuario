@@ -273,7 +273,7 @@ style.textContent = `
         transition: opacity 0.3s ease;
     }
     
-    @media (max-width: 768px) {
+    @media (max-width: 720px) {
         .nav-menu {
             display: none;
         }
