@@ -6,15 +6,15 @@ const portfolioData = [
     },
     {
         id: 2,
-        image: "https://via.placeholder.com/400x250/00d4ff/ffffff?text=Digital+Art",
+        image: "ThumbEP67",
     },
     {
         id: 3,
-        image: "https://via.placeholder.com/400x250/f59e0b/ffffff?text=Metaverse"
+        image: "ThumbEP68"
     },
     {
         id: 4,
-        image: "https://via.placeholder.com/400x250/10b981/ffffff?text=Crypto+Legends"
+        image: "ThumbEP66"
     },
     {
         id: 5,
