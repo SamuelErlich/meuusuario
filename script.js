@@ -2,45 +2,27 @@
 const portfolioData = [
     {
         id: 1,
-        title: "",
-        description: "",
-        image: "Thumb02.jpg",
-        category: ""
+        image: "Thumb02.jpg"
     },
     {
         id: 2,
-        title: "Digital Art Collection",
-        description: "Arte digital abstrata com cores vibrantes",
         image: "https://via.placeholder.com/400x250/00d4ff/ffffff?text=Digital+Art",
-        category: "art"
     },
     {
         id: 3,
-        title: "Metaverse Explorer",
-        description: "Exploração do metaverso em estilo NFT",
-        image: "https://via.placeholder.com/400x250/f59e0b/ffffff?text=Metaverse",
-        category: "metaverse"
+        image: "https://via.placeholder.com/400x250/f59e0b/ffffff?text=Metaverse"
     },
     {
         id: 4,
-        title: "Crypto Legends",
-        description: "Personagens lendários do mundo crypto",
-        image: "https://via.placeholder.com/400x250/10b981/ffffff?text=Crypto+Legends",
-        category: "crypto"
+        image: "https://via.placeholder.com/400x250/10b981/ffffff?text=Crypto+Legends"
     },
     {
         id: 5,
-        title: "Neon Dreams",
-        description: "Sonhos neon em alta resolução",
-        image: "https://via.placeholder.com/400x250/ec4899/ffffff?text=Neon+Dreams",
-        category: "art"
+        image: "https://via.placeholder.com/400x250/ec4899/ffffff?text=Neon+Dreams"
     },
     {
         id: 6,
-        title: "Space Odyssey",
-        description: "Jornada espacial em estilo NFT",
-        image: "https://via.placeholder.com/400x250/8b5cf6/ffffff?text=Space+Odyssey",
-        category: "space"
+        image: "https://via.placeholder.com/400x250/8b5cf6/ffffff?text=Space+Odyssey"
     }
 ];
 
