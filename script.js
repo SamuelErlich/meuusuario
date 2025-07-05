@@ -6,15 +6,15 @@ const portfolioData = [
     },
     {
         id: 2,
-        image: "ThumbEP67",
+        image: "ThumbEP67.jpg",
     },
     {
         id: 3,
-        image: "ThumbEP68"
+        image: "ThumbEP68.jpg"
     },
     {
         id: 4,
-        image: "ThumbEP66"
+        image: "ThumbEP66.jpg"
     },
     {
         id: 5,
