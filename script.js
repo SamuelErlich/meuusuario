@@ -4,7 +4,7 @@ const portfolioData = [
         id: 1,
         title: "Cyber Warrior NFT",
         description: "Thumbnail futurista com elementos cyberpunk",
-        image: "https://via.placeholder.com/400x250/7c3aed/ffffff?text=Cyber+Warrior",
+        image: "Thumb02.jpg",
         category: "gaming"
     },
     {
